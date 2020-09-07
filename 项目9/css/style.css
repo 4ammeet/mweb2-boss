@@ -1,0 +1,143 @@
+.qu{
+    width: 1918px;
+    margin: auto;
+   overflow: hidden;
+}
+
+/* top */
+.top{
+    width:1918px;
+    height: 72px;
+    background-color:#009acc;
+}
+/* logo */
+.logo{
+    width: 200px;
+    height: 100%;
+    background-color:#0084b5;
+    float: left;
+    
+}
+.logo>img{
+    float: left;
+    margin-top: -30px;
+    width: 160px;
+    height: 130px;
+   
+}
+/* 导航标题一 */
+.dao1{
+    width:10%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    line-height: 75px;
+    color: #ffffff;
+    font-size: 16px;
+}
+/* 导航标题二 */
+.dao2{
+    width:10%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    line-height: 45px;
+    color: #ffffff;
+    font-size: 16px;
+    background-color:#0084b5;
+}
+/* 导航标题三 */
+.dao3{
+    width:10%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    line-height: 45px;
+    color: #ffffff;
+    font-size: 16px;
+
+}
+/* 登录 */
+.den{
+padding:15px;
+ line-height: 35px;
+float: right;
+height: 100%;
+border-right: 1px solid #0089BA;
+border-left: 1px solid #0089BA;
+}
+/*  左边栏  */
+.lel{
+    width:10.4%;
+    float: left;
+    background:#000000;
+    height: 886px;
+    display: flex;
+    flex-direction:column;
+}
+.lel>li{
+    flex: 1;
+    width: 100%;
+    height: 52px;
+    background: #293239;
+    margin-top: 1px;
+    text-align: center;
+}
+.tu{
+    color:#ffffff;
+   
+ line-height: 50px;
+}
+.tuz{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.tuz{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.tuz1{
+    margin-left: 10px;
+    font-size: 15px;
+}
+.tu1{
+    
+    line-height: 50px;
+}
+
+/* 右边 */
+.rie{
+width: 89.6%;
+height: 886px;
+float: right;
+
+padding-left: 20px;
+}   
+.biao{
+    width: 100%;
+    height: 60px;
+    background-color: #0089BA;
+    margin-top: 50px;
+}
+.biao>span{
+    margin-left: 50px;
+    font-size: 20px;
+    color: #ffffff;
+    line-height: 76px;
+}
+.kua{
+    margin-top:20px;
+}
+.xia{
+    position: absolute;
+   margin-left:-55px ;
+   margin-top: 5px;
+    z-index: 100000;
+}
+.kun{
+    margin-top: 20px;
+    width: 100%;
+    height: 130px;
+    background-color: #e7e7e9;
+    padding: 20px;
+}
